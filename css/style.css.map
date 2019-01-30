@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAEA,IAAK;EACD,gBAAgB,ECGD,OAAO",
+"sources": ["../scss/partials/_base.scss","../scss/partials/_variables.scss"],
+"names": [],
+"file": "style.css"
+}
